@@ -9,4 +9,4 @@ COPY LICENSE README.md /
 
 COPY --from=builder /bin/entrypoint /bin/entrypoint
 
-ENTRYPOINT ["bin/entrypoint"]
+ENTRYPOINT ["/bin/entrypoint"]
