@@ -8,9 +8,13 @@ inputs:
   server_url:
     description: 'twirp server base url'
     required: true
+  private_key:
+    description: 'used to sign the request'
+    required: false
 runs:
   using: 'docker'
   image: 'Dockerfile'
   args:
     - ${{ inputs.server_url }}
     - ${{ inputs.image }}
+    - ${{ inputs.private_key }}

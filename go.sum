@@ -1,7 +1,7 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
-github.com/bsdlp/update-docker-image v0.0.0-20201105054545-47e8da7c4229 h1:y3dl5AoUUMDXTkjI786dsJ0R8F01A7or2K9CT+ANLt8=
-github.com/bsdlp/update-docker-image v0.0.0-20201105054545-47e8da7c4229/go.mod h1:cB0+VtSgsJqojkNoxWYe7BWvTkYUy8wgfUrXTiIuB3M=
+github.com/bsdlp/update-docker-image v0.0.0-20201105200224-b35146985022 h1:jofCm1GSjdLgUwjU9SgFKBgdbk2TyrjBh2c+msz9TkQ=
+github.com/bsdlp/update-docker-image v0.0.0-20201105200224-b35146985022/go.mod h1:cB0+VtSgsJqojkNoxWYe7BWvTkYUy8wgfUrXTiIuB3M=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/envoyproxy/go-control-plane v0.9.1-0.20191026205805-5f8ba28d4473/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=
